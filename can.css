@@ -1,0 +1,22 @@
+
+.timeBtn{
+    height:50px;
+    width: 80px;
+    border:2px solid;
+    border-radius: 25px;
+    background-color: rgb(251, 144, 4);
+    font-style: oblique;
+    font-size: large;
+}
+#timeDisplay{
+    font-size: 150px;
+    margin-bottom: 30px;
+    font-style: oblique;
+}
+#Container{
+    text-align: center;
+    background-color: rgb(142, 34, 243);
+    border:2px solid;
+    width: 800px;
+    margin-left: 300px;
+}
